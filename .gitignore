@@ -1,0 +1,16 @@
+.vs/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+*.user
+*.suo
+*.sln.docstates
+*.env
+
+bin/
+obj/
+
+Thumbs.db
+tmp/
+*.tmp
